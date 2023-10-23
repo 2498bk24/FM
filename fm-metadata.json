@@ -1,26 +1,9 @@
 {
-    "name": "Flowmatic",
-    "symbol": "FM",
-    "image": "https://raw.githubusercontent.com/2498bk24/FM/main/FM-LOGO.png",
-    "uri": "https://raw.githubusercontent.com/2498bk24/FM/main/fm-metadata.json",
-    "updateAuthority": false,
-    "primarySaleHappened": false,
-    "isMutable": false,
-    "seller_fee_basis_points": 300,
-    "creators": [
-      {
-        "address": "2aRUKewEoi15zEzQ8fDmxeEp4Zj1YWBrC2JV7kUpQYGH",
-        "share": 100
-      }
-    ],
-    "image": "https://raw.githubusercontent.com/2498bk24/FM/main/FM-LOGO.png",
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/2498bk24/FM/main/FM-LOGO.png",
-                "type": "image/png"
-            }
-        ],
-        "category": "image"
-    }
+  "name": "Flowmatic", 
+  "symbol": "FM",
+  "uri": "https://github.com/2498bk24/FM/blob/8e65e1c03adaa27bc30fa6b6fdb02fb8e4943438/token_uri.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
 }
